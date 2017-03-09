@@ -1,6 +1,6 @@
 # iyzico Recruitment Process
 
-As iyzicoders, we are a team of passionate developers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
+As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate developers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
 
 Let us give you brief information about [iyzico](http://iyzico.com). iyzico was founded in Istanbul in 2012 by Barbaros Ozbugutu and Tahsin Isin in order to provide an easy and secure payment management platform for various sizes of e-commerce companies serving different areas. Ozbugutu and Isin, who have been in important positions for many years in reputable companies such as Firstdata, ClickandBuy and Klarna, which serve in Europe's e-commerce field, have moved their experience in this area to the Turkish market with iyzico and have created an innovative platform that is fully adapted to this market. Managed by a team in love with e-commerce, iyzico makes life easier for everyone who accepts payments on the internet and offers a flawless business alliance with added value.
 
