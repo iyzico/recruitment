@@ -35,9 +35,9 @@ The things iyzico Engineering is obsessed about:
 * Practicing
 * Involving in communities
 
-## How we can apply iyzico Engineering
+## How can you apply iyzico Engineering?
 
-Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine. After we evaluate your answers, we will contact you as soon as possible.
+Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine for applying iyzico. After we evaluate your answers, we will contact you as soon as possible.
 
 For all other open positions at iyzico, you can visit our [career page](https://www.iyzico.com/is-imkanlari/).
 
