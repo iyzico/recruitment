@@ -39,4 +39,6 @@ The things iyzico Engineering is obsessed about:
 
 Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine. After we evaluate your answers, we will contact you as soon as possible.
 
-Please do not hesitate to contact with us by creating pull request to this repository.
+For all other open positions at iyzico, you can visit our [career page](https://www.iyzico.com/is-imkanlari/).
+
+Please do not hesitate to contact with us for any questions by creating an issue to this repository.
