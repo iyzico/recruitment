@@ -35,6 +35,24 @@ The things iyzico Engineering is obsessed about:
 * Practicing
 * Involving in communities
 
+## What is the technology stack at iyzico?
+
+We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
+
+* Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration, TDD, BDD etc.)
+* Service Oriented Architecture and working with RESTful APIs, SOAP, XML or JSON.
+* Microservices, CQRS.
+* Relational databases and SQL.
+* Java ecosystem (Spring, Spring Boot, Java 8 and Groovy) and related design patterns.
+* Unit, Integration and Functional Testing.
+* ScalaTest, Groovy Spock and Selenium Test Suite.
+* Selenium (or equivalent) for frontend automation.
+* Linux/Unix development
+
+We have open source clients written in PHP, Java, Ruby, Node and Python. Our fraud team uses Python, Scala, Spark with excessive machine learning background.
+
+You can check the details of our technology stack from our [StackShare page](https://stackshare.io/iyzico/development).
+
 ## How can you apply iyzico Engineering?
 
 Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine for applying iyzico. After we evaluate your answers, we will contact you as soon as possible.
