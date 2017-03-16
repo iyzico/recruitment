@@ -10,6 +10,16 @@ On social media, our [Twitter](https://twitter.com/iyzicoeng) and [Instagram](ht
 
 Quality software can be realized by craftspeople. We call these kinds of "sharp knives". If you are passionate, disciplined and motivated, if you think you are a sharp knife and you are interested in joining iyzico, we would be very happy to meet with you. 
 
+## Zen of iyzicoders
+
+We call ourself "**iyzicoders**". We believe in the power of keeping focus on a common value set. We defined what we believe in a document. You can click on the images below to see the bigger versions.
+
+[![iyzicoders Zen.001](/img/iyzicoders%20Zen.001-tb.jpeg)](/img/iyzicoders%20Zen.001.jpeg) [![iyzicoders Zen.002](/img/iyzicoders%20Zen.002-tb.jpeg)](/img/iyzicoders%20Zen.002.jpeg)
+
+## iyzico Engineering Recruitment Process
+
+Recruitment has always been very important for iyzico. We search for talents who fits our culture perfectly. 
+
 ![Recruitment Process](/img/recruitment_process.png)
 
 iyzico evaluates candidates in two main areas: Technical and Cultural. 
