@@ -40,14 +40,22 @@ The things iyzico Engineering is obsessed about:
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
 * Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration, TDD, BDD etc.)
+* The team will be on of the most experienced team about Test Driven Development in Turkey.
+* Pair programming is one of the core practices developers must experience in daily work
 * Service Oriented Architecture and working with RESTful APIs, SOAP, XML or JSON.
-* Microservices, CQRS.
+* Code cannot be deployed unless it is reviewed.
+* Refactoring is a must to keep the platform alive.
+* Microservices, CQRS. That has impact on every single design decision.
+* Good Git knowledge is important. Git is an ordinary tool. You have to be an expert of using it.
+* Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
 * Java ecosystem (Spring, Spring Boot, Java 8 and Groovy) and related design patterns.
-* Unit, Integration and Functional Testing.
+* Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
-* Linux/Unix development
+* Linux/Unix development. Writing bash scripts should never be a big challenge.
+* We are technology agnostic. We use the most appropriate tool, not the newest or the most popular.
+* We give special importance to women in tech. 
 
 We have open source clients written in PHP, Java, Ruby, Node and Python. Our fraud team uses Python, Scala, Spark with excessive machine learning background.
 
