@@ -78,3 +78,29 @@ Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine for appl
 For all other open positions at iyzico, you can visit our [career page](https://www.iyzico.com/en/job-opportunity/).
 
 Please do not hesitate to contact with us for any questions by creating an issue to this repository.
+
+## Frequently Asked Questions
+
+**Q1. How many times should I need to come to iyzico office for the interviews ?**
+
+Most probably, we will meet twice. First gathering is for the technical interview, second gathering is for code review and third interview for cultural interview + additional interviews if required. In most cases, we merge 2nd and 3rd interviews to the same day to make fast decisions and finalize the process in the second gathering.
+
+**Q2. How much should I need to wait for being informed about the decision ?**
+
+Statistically we usually inform you in 2-3 days. However in special situations, we may need to wait 2-3 weeks for finalizing our decisions. 
+
+**Q3. What is asked in the technical interview ?**
+
+We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
+
+**Q4. What is code review session ?**
+
+We do excessively code reviews at iyzico. We do the same with you. When you come to the office, we will ask you to explain how you make your design decisions. We will look at your code at line by line and discuss the solutions you applied. 
+
+**Q5. Will I code at the interview ?**
+
+Most probably, yes. We may ask you to extend your code with new features or refactor the existing parts. From time to time, we ask the candidates to implement a brand new solution in a new context.
+
+**Q6. Do I have to fill the survey to apply open positions ?**
+
+We expect every candidate to fill the survey at the very beginning. We check your answers, your CV and make a decision for your application.
