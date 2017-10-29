@@ -50,7 +50,7 @@ The things iyzico Engineering is obsessed about:
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
 * Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration, TDD, BDD etc.)
-* The team will be on of the most experienced team about Test Driven Development in Turkey.
+* The team will be one of the most experienced team about Test Driven Development in Turkey.
 * Pair programming is one of the core practices developers must experience in daily work
 * Service Oriented Architecture and working with RESTful APIs, SOAP, XML or JSON.
 * Code cannot be deployed unless it is reviewed.
