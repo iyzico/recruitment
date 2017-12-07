@@ -1,6 +1,6 @@
 # Software Engineer, aka Software Craftsman
 
-We are very excited to have you in this page reading our words. Whatever the consecuences are, let's make it a good, refreshing start.
+We are very excited to have you in this page reading our words. Whatever the consecuences are, let's make it a good and a refreshing start.
 
 ## iyzico Engineering
 
@@ -11,6 +11,19 @@ The engineering department is entirely managed and developed through [Agile](htt
 On social media, our [Twitter](https://twitter.com/iyzicoeng) and [Instagram](https://www.instagram.com/iyzicoengineering) accounts can give you insights from different angles.
 
 Quality software can be realized by craftspeople. We call these kinds of "sharp knives". If you are passionate, disciplined and motivated, if you think you are a sharp knife and you are interested in joining iyzico, we would be very happy to meet with you. 
+
+## The Things You Need To Accomplish
+
+iyzico Engineering is a challenging place. You should be ready for it. We would like to give some insights what you need to accomplish when you join the team.
+
+* **Domain model** will be your best friend. You have to learn business domain and be a domain expert. That is crucial to propose solutions solving the problems of our customers.
+* **Pair programming** is a core practice we follow. You will develop in pairs almost %80 of your daily time. You should have good communication skills and almost no ego. 
+* **Scrum** shapes the behaviour of our people here. Agility is in our DNA, therefore we have to know the basic of Agile mindset and  Scrum values and how Scrum can improve our Agility. 
+* **Code review** is crucial for every commit you do. you have to be open to any criticism and handle them with no ego.
+* **SOLID principles, refactoring techniques and OOP principles** are very important to build high quality software. You should code while caring to decrease coupling and increase cohesion.
+* **Sharing knowledge** is a common practice in our culture. You will talk at internal and external seminars and share your knowledge and experience with others. You should believe in the power of "give back to the community".
+* **Only self-learners can survive.** We have a 42-hours training program that we teach you both business domain and the technical details. However it is never enough. You have to push yourself to the limits to be better at your profession.
+* **iyzico culture** is the sum of the behaviour set of all iyzinators. When you join to the team, you will learn the values and principles we follow. It is important to believe in the values and follow the principles to be a real iyzinator. 
 
 ## Job Description
 
@@ -26,6 +39,7 @@ There are 5 levels in software development at iyzico. From junior to principal, 
 * proactively improves the system
 * has good soft and communication skills
 * does pair programming effectively
+* has no ego
 
 ## Tehnology Stack 
 
