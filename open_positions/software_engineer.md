@@ -2,6 +2,8 @@
 
 We are very excited to have you in this page reading our words. Whatever the consecuences are, let's make it a good and a refreshing start.
 
+**Being an iyzicoder allows you reach many opportunities a software development professional should not miss. If you want to step up in your career and master your profession by working with experienced craftspeople, iyzico is the best place to work.**
+
 ## iyzico Engineering
 
 Software development is our profession. As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate engineers who have dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
