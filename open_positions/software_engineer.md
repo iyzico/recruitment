@@ -1,6 +1,6 @@
 # Software Engineer, aka iyzicoder
 
-We are very excited to have you in this page reading our words. Whatever the consecuences are, let's make it a good and a refreshing start.
+We are very excited to have you in this page reading our words. Whatever the consequences are, let's make it a good and a refreshing start.
 
 **Being an iyzicoder allows you reach many opportunities a software development professional should not miss. If you want to step up in your career and master your profession by working with experienced craftspeople, iyzico is the best place to work.**
 
@@ -21,7 +21,7 @@ iyzico Engineering is a challenging place. You should be ready for it. We would 
 * **Domain model** will be your best friend. You have to learn business domain and be a domain expert. That is crucial to propose solutions solving the problems of our customers.
 * **Pair programming** is a core practice we follow. You will develop in pairs almost %80 of your daily time. You should have good communication skills and almost no ego. 
 * **Scrum** shapes the behaviour of our people here. Agility is in our DNA, therefore we have to know the basic of Agile mindset and  Scrum values and how Scrum can improve our Agility. 
-* **Code review** is crucial for every commit you do. you have to be open to any criticism and handle them with no ego.
+* **Code review** is crucial for every commit you do. You have to be open to any criticism and handle them with no ego.
 * **SOLID principles, refactoring techniques and OOP principles** are very important to build high quality software. You should code while caring to decrease coupling and increase cohesion.
 * **Sharing knowledge** is a common practice in our culture. You will talk at internal and external seminars and share your knowledge and experience with others. You should believe in the power of "give back to the community".
 * **Only self-learners can survive.** We have a 42-hours training program that we teach you both business domain and the technical details. However it is never enough. You have to push yourself to the limits to be better at your profession.
@@ -29,7 +29,7 @@ iyzico Engineering is a challenging place. You should be ready for it. We would 
 
 ## Job Description
 
-There are 5 levels in software development at iyzico. From junior to principal, we expect to see the same professionalism level from everyone regardless of their title. For software engineers, here are the expectations.
+There are 5 levels in software development at iyzico. From junior to principal, we expect to see the same professionalism level from everyone regardless of their title. For software engineers, here are the expectations:
 
 * experienced enough to lead technical tasks
 * knows and implements agile practices
@@ -43,7 +43,7 @@ There are 5 levels in software development at iyzico. From junior to principal, 
 * does pair programming effectively
 * has no ego
 
-## Tehnology Stack 
+## Technology Stack 
 
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
