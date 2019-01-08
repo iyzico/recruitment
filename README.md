@@ -73,9 +73,7 @@ You can check the details of our technology stack from our [StackShare page](htt
 
 ## How can you apply iyzico Engineering?
 
-Filling [iyzicoder Survey](http://www.bitly.com/iyzicoder) is just fine for applying iyzico. After we evaluate your answers, we will contact you as soon as possible.
-
-For all other open positions at iyzico, you can visit our [career page](https://www.iyzico.com/en/job-opportunity/).
+For all other open positions at iyzico, you can visit our [career page](https://iyzico.recruitee.com/).
 
 Please do not hesitate to contact with us for any questions by creating an issue to this repository.
 
