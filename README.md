@@ -20,11 +20,11 @@ We call ourself "**iyzicoders**". We believe in the power of keeping focus on a 
 
 Recruitment has always been very important for iyzico. We search for talents who fits our culture perfectly. 
 
-![Recruitment Process](/img/recruitment_process.001.jpeg)
+![Recruitment Process](/img/iyzico_recruitment_process.jpeg)
 
 iyzico evaluates candidates in two main areas: Technical and Cultural. 
 
-**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems.
+**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems. And it is a good time to talk about Coding Challange Solution.
 
 **Cultural interviews** check for candidates’ soft skills,  values, communication skills and how the candidate fits for every single point of iyzicoder’s zen. iyzico searches for perfect cultural fits.
 
@@ -59,11 +59,12 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 8 and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 8/11 and Groovy) and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
 * Linux/Unix development. Writing bash scripts should never be a big challenge.
+* Kubernetes
 * We are technology agnostic. We use the most appropriate tool, not the newest or the most popular.
 * We give special importance to women in tech. 
 
@@ -79,9 +80,9 @@ Please do not hesitate to contact with us for any questions by creating an issue
 
 ## Frequently Asked Questions
 
-**Q1. How many times should I need to come to iyzico office for the interviews ?**
+**Q1. Do I need to come to iyzico office for the interviews ?**
 
-Most probably, we will meet twice. First gathering is for the technical interview, second gathering is for code review and third interview for cultural interview + additional interviews if required. In most cases, we merge 2nd and 3rd interviews to the same day to make fast decisions and finalize the process in the second gathering.
+No, all recruitment process is online.
 
 **Q2. How much should I need to wait for being informed about the decision ?**
 
@@ -91,14 +92,7 @@ Statistically we usually inform you in 2-3 days. However in special situations, 
 
 We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
 
-**Q4. What is code review session ?**
-
-We do excessively code reviews at iyzico. We do the same with you. When you come to the office, we will ask you to explain how you make your design decisions. We will look at your code at line by line and discuss the solutions you applied. 
-
 **Q5. Will I code at the interview ?**
 
 Most probably, yes. We may ask you to extend your code with new features or refactor the existing parts. From time to time, we ask the candidates to implement a brand new solution in a new context.
 
-**Q6. Do I have to fill the survey to apply open positions ?**
-
-We expect every candidate to fill the survey at the very beginning. We check your answers, your CV and make a decision for your application.
