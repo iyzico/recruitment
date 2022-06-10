@@ -4,7 +4,7 @@ As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate
 
 Let us give you brief information about [iyzico](http://iyzico.com). iyzico was founded in Istanbul in 2012 by Barbaros Ozbugutu and Tahsin Isin in order to provide an easy and secure payment management platform for various sizes of e-commerce companies serving different areas. Ozbugutu and Isin, who have been in important positions for many years in reputable companies such as Firstdata, ClickandBuy and Klarna, which serve in Europe's e-commerce field, have moved their experience in this area to the Turkish market with iyzico and have created an innovative platform that is fully adapted to this market. Managed by a team in love with e-commerce, iyzico makes life easier for everyone who accepts payments on the internet and offers a flawless business alliance with added value.
 
-The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. We believe that the [engineering cultures](https://www.youtube.com/watch?v=gOS5Z-BdoM0) we have cultivated and our [technical processes](https://www.youtube.com/watch?v=DR1auLFM2Fg) we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
+The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. We believe that the [engineering cultures] we have cultivated and our [technical processes] we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
 
 On social media, our [Twitter](https://twitter.com/iyzicoeng) and [Instagram](https://www.instagram.com/iyzicoengineering) accounts can give you insights from different angles.
 
@@ -59,7 +59,7 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 8/11 and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 8/11/17, Kotlin and Groovy) and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
@@ -74,7 +74,7 @@ You can check the details of our technology stack from our [StackShare page](htt
 
 ## How can you apply iyzico Engineering?
 
-For all other open positions at iyzico, you can visit our [career page](https://iyzico.recruitee.com/).
+For all other open positions at iyzico, you can visit our [career page](https://jobs.eu.lever.co/payu?location=Istanbul%2C%20Turkey).
 
 Please do not hesitate to contact with us for any questions by creating an issue to this repository.
 
@@ -90,10 +90,8 @@ Statistically we usually inform you in 2-3 days. However in special situations, 
 
 **Q3. What is asked in the technical interview ?**
 
-
 We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
 
 **Q4. Will I code at the interview ?**
 
 Most probably, yes. We may ask you to extend your code with new features or refactor the existing parts. From time to time, we ask the candidates to implement a brand new solution in a new context.
-
