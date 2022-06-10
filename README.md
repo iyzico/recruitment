@@ -90,9 +90,10 @@ Statistically we usually inform you in 2-3 days. However in special situations, 
 
 **Q3. What is asked in the technical interview ?**
 
+
 We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
 
-**Q5. Will I code at the interview ?**
+**Q4. Will I code at the interview ?**
 
 Most probably, yes. We may ask you to extend your code with new features or refactor the existing parts. From time to time, we ask the candidates to implement a brand new solution in a new context.
 
