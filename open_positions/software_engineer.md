@@ -8,7 +8,7 @@ We are very excited to have you in this page reading our words. Whatever the con
 
 Software development is our profession. As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate engineers who have dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
 
-The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. The whole engineering team believes the power of [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/#/tr) movement. We believe that the [engineering culture](https://www.youtube.com/watch?v=gOS5Z-BdoM0) we have cultivated and our [technical processes](https://www.youtube.com/watch?v=DR1auLFM2Fg) we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
+The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. The whole engineering team believes the power of [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/#/tr) movement. We believe that the [engineering culture] we have cultivated and our [technical processes] we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
 
 On social media, our [Twitter](https://twitter.com/iyzicoeng) and [Instagram](https://www.instagram.com/iyzicoengineering) accounts can give you insights from different angles.
 
@@ -43,7 +43,7 @@ There are 5 levels in software development at iyzico. From junior to principal, 
 * does pair programming effectively
 * has no ego
 
-## Tehnology Stack 
+## Technology Stack 
 
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
@@ -57,7 +57,7 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important. Git is an ordinary tool. You have to be an expert of using it.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 8 and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 8/11/17, Kotlin and Groovy) and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
