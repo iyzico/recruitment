@@ -2,7 +2,11 @@
 
 As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate engineers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
 
-Let us give you brief information about [iyzico](http://iyzico.com). iyzico was founded in Istanbul in 2012 by Barbaros Ozbugutu and Tahsin Isin in order to provide an easy and secure payment management platform for various sizes of e-commerce companies serving different areas. Ozbugutu and Isin, who have been in important positions for many years in reputable companies such as Firstdata, ClickandBuy and Klarna, which serve in Europe's e-commerce field, have moved their experience in this area to the Turkish market with iyzico and have created an innovative platform that is fully adapted to this market. Managed by a team in love with e-commerce, iyzico makes life easier for everyone who accepts payments on the internet and offers a flawless business alliance with added value.
+iyzico was founded in 2013 to provide online payment services and artificial intelligence-based payment technologies to businesses of various sizes in the world of e-commerce. By making the complex payment processes simple through its easy and secure platform, iyzico had achieved significant successes through supporting thousands of businesses in digitalization and was acquired by the global payment systems giant PayU in 2019. With such a robust structure, iyzico is operating on the principle of democratizing financial services and making them accessible for everyone alongside the services it provides to businesses.
+
+Through iyzico Buyer Protection, consumers’ concerns regarding shopping online are resolved and better experiences are enabled. Control is handed back to the consumers by 24/7 live support through the iyzico mobile app and convenience in cancellation/returns processes. To this date, more than 2 million consumers shopped online under the security provided by iyzico Buyer Protection and this number is increasing daily. Via pay with iyzico, which is a blended payment solution, millions of consumers who do not use banking can safely shop online under the belt of iyzico Buyer Protection.
+
+iyzico continues to simplify online shopping for both consumers and sellers by the simple, accessible, and innovative technologies it developed.
 
 The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. We believe that the [engineering cultures] we have cultivated and our [technical processes] we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
 
@@ -94,4 +98,25 @@ We ask questions to identify the level of your knowledge and experience about te
 
 **Q4. Will I code at the interview ?**
 
-Most probably, yes. We may ask you to extend your code with new features or refactor the existing parts. From time to time, we ask the candidates to implement a brand new solution in a new context.
+No, You already code in Coding Challange. We will talk about your code.
+
+**After Hiring**
+
+**Q5- How does the adaptation process work after starting the job?**
+
+a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
+
+b) iyzicoMate is assigned to help you with anything you need and provide support for 2 months,  There is a detailed orientation program designed for you to fully grasp the iyzico culture,
+
+c) Online Training Platform (Free access to Udemy, Harvard ManageMentor, Get abstract, etc.),
+Free Safari Books and Frontend Masters memberships start when you start work.
+
+d) Iyzinator join various meetings and trainings during a 2-month period
+
+**Q6- Can I use the office after I start work?**
+
+Yes you can. Our headquater is in Maslak and satellite office is in Ataşehir. Both offices are in the area allocated to us in Kolektif House. Freedom to work from homes or from the offices located both side of İstanbul.
+
+
+
+
