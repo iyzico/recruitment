@@ -100,8 +100,6 @@ We ask questions to identify the level of your knowledge and experience about te
 
 No, You already code in Coding Challange. We will talk about your code.
 
-**After Hiring**
-
 **Q5- How does the adaptation process work after starting the job?**
 
 a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
