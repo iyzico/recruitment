@@ -47,8 +47,7 @@ There are 5 levels in software development at iyzico. From junior to principal, 
 
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
-* Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration, TDD, BDD etc.)
-* The team will be on of the most experienced team about Test Driven Development in Turkey.
+* Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration etc.)
 * Pair programming is one of the core practices developers must experience in daily work.
 * Service Oriented Architecture and working with RESTful APIs.
 * Code cannot be deployed unless it is reviewed.
@@ -57,9 +56,8 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important. Git is an ordinary tool. You have to be an expert of using it.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 8/11/17, Kotlin and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 11/17/21, Kotlin and Groovy) and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
-* ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
 * Linux/Unix development. Writing bash scripts should never be a big challenge.
 * We are technology agnostic. We use the most appropriate tool, not the newest or the most popular.
