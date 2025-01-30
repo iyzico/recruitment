@@ -10,8 +10,6 @@ iyzico continues to simplify online shopping for both consumers and sellers by t
 
 The engineering department is entirely managed and developed through [Agile](http://agilemanifesto.org/iso/tr/manifesto.html) culture and mindset. We believe that the [engineering cultures] we have cultivated and our [technical processes] we have created are very special. We have important steps in our backlog that will shake the sector in the future. We are proud that iyzico is among the rare companies in this field both in Turkey and in the world.
 
-On social media, our [Twitter](https://twitter.com/iyzicoeng) and [Instagram](https://www.instagram.com/iyzicoengineering) accounts can give you insights from different angles.
-
 Quality software can be realized by excellent engineers. If you are passionate, disciplined and motivated and you are interested in joining iyzico, we would be very happy to meet with you. 
 
 ## Zen of iyzicoders
@@ -43,7 +41,7 @@ The things iyzico Engineering is obsessed about:
 * Agile and Lean mindset
 * DevOps Culture
 * Automating everything
-* Collaboration (peer, mob)
+* Collaboration (pair, mob)
 * Egoless programming
 * Sharing knowledge
 * Practicing
@@ -53,8 +51,7 @@ The things iyzico Engineering is obsessed about:
 
 We have many platforms build in various technologies. Our main focus is on Java ecosystem and open source technologies.
 
-* Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration, TDD, BDD etc.)
-* The team will be one of the most experienced team about Test Driven Development in Turkey.
+* Agile software development lifecycle (code review, pair programming, continuous delivery, continuous integration etc.)
 * Pair programming is one of the core practices developers must experience in daily work
 * Service Oriented Architecture and working with RESTful APIs, SOAP, XML or JSON.
 * Code cannot be deployed unless it is reviewed.
@@ -63,12 +60,10 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 8/11/17, Kotlin and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 11/17/21, Kotlin and Groovy) and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
-* ScalaTest, Groovy Spock and Selenium Test Suite.
 * Selenium (or equivalent) for frontend automation.
 * Linux/Unix development. Writing bash scripts should never be a big challenge.
-* Kubernetes
 * We are technology agnostic. We use the most appropriate tool, not the newest or the most popular.
 * We give special importance to women in tech. 
 
@@ -78,42 +73,46 @@ You can check the details of our technology stack from our [StackShare page](htt
 
 ## How can you apply iyzico Engineering?
 
-For all other open positions at iyzico, you can visit our [career page](https://jobs.eu.lever.co/payu?location=Istanbul%2C%20Turkey).
+For all other open positions at iyzico, you can visit our [career page](https://jobs.lever.co/iyzico).
 
 Please do not hesitate to contact with us for any questions by creating an issue to this repository.
 
 ## Frequently Asked Questions
 
-**Q1. Do I need to come to iyzico office for the interviews ?**
+**Q1. Do I need to come to iyzico office for the interviews?**
 
 No, all recruitment process is online.
 
-**Q2. How much should I need to wait for being informed about the decision ?**
+**Q2. How many interviews will we conduct?**
 
-Statistically we usually inform you in 2-3 days. However in special situations, we may need to wait 2-3 weeks for finalizing our decisions. 
+Most probably, we will meet twice. First gathering is for the technical interview, second gathering is for code review and third interview for cultural interview + additional interviews if required. In most cases, we merge 2nd and 3rd interviews to the same day to make fast decisions and finalize the process in the second gathering.
 
-**Q3. What is asked in the technical interview ?**
+**Q3. How much should I need to wait for being informed about the decision?**
+
+Statistically we usually inform you in 2–3 days. However in special situations, we may need to wait 2–3 weeks for finalizing our decisions.
+
+**Q4. What is asked in the technical interview?**
 
 We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
 
-**Q4. Will I code at the interview ?**
+**Q5. What is code review session?**
 
-No, You already code in Coding Challange. We will talk about your code.
+We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
 
-**Q5- How does the adaptation process work after starting the job?**
+**Q6. Will I code at the interview?**
 
-a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
+No, You already code in Coding Challenge. We will talk about your code.
 
-b) iyzicoMate is assigned to help you with anything you need and provide support for 2 months,  There is a detailed orientation program designed for you to fully grasp the iyzico culture,
+**Q7. How does the adaptation process work after starting the job?**
 
-c) Online Training Platform (Free access to Udemy, Harvard ManageMentor, Get abstract, etc.),
-Free Safari Books and Frontend Masters memberships start when you start work.
-
+a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
+b) iyziMate is assigned to help you with anything you need and provide support for 2 months, There is a detailed orientation program designed for you to fully grasp the iyzico culture,
+c) Online Training Platform (Free access to Udemy, Get abstract, etc.), Free O'Reilly and Frontend Masters memberships start when you start work.
 d) Iyzinator join various meetings and trainings during a 2-month period
 
-**Q6- Can I use the office after I start work?**
+**Q8. Can I use the office after I start work?**
 
-Yes you can. Our headquater is in Maslak and satellite office is in Ataşehir. Both offices are in the area allocated to us in Kolektif House. Freedom to work from homes or from the offices located both side of İstanbul.
+Yes you can. Our headquater is in Altunizade. You have the freedom to work from home or from the office.
 
 
 
