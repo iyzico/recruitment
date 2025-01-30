@@ -106,8 +106,11 @@ No, You already code in Coding Challenge. We will talk about your code.
 **Q7. How does the adaptation process work after starting the job?**
 
 a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
+
 b) iyziMate is assigned to help you with anything you need and provide support for 2 months, There is a detailed orientation program designed for you to fully grasp the iyzico culture,
+
 c) Online Training Platform (Free access to Udemy, Get abstract, etc.), Free O'Reilly and Frontend Masters memberships start when you start work.
+
 d) Iyzinator join various meetings and trainings during a 2-month period
 
 **Q8. Can I use the office after I start work?**
