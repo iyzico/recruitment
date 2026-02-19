@@ -1,6 +1,6 @@
 # iyzico Recruitment Process
 
-As [iyzicoders](https://www.iyzico.com/en/about-us), we are a team of passionate engineers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
+As iyzicoders, we are a team of passionate engineers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
 
 iyzico was founded in 2013 to provide online payment services and artificial intelligence-based payment technologies to businesses of various sizes in the world of e-commerce. By making the complex payment processes simple through its easy and secure platform, iyzico had achieved significant successes through supporting thousands of businesses in digitalization and was acquired by the global payment systems giant PayU in 2019. With such a robust structure, iyzico is operating on the principle of democratizing financial services and making them accessible for everyone alongside the services it provides to businesses.
 
