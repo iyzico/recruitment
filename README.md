@@ -26,7 +26,7 @@ Recruitment has always been very important for iyzico. We search for talents who
 
 iyzico evaluates candidates in two main areas: Technical and Cultural. 
 
-**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems. And it is a good time to talk about Coding Challange Solution.
+**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems. And it is a good time to talk about Coding Challenge Solution.
 
 **Cultural interviews** check for candidates’ soft skills,  values, communication skills and how the candidate fits for every single point of iyzicoder’s zen. iyzico searches for perfect cultural fits.
 
