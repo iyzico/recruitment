@@ -54,7 +54,7 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Good Git knowledge is important. Git is an ordinary tool. You have to be an expert of using it.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 17/21, Kotlin and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 17/21, Kotlin and Groovy), .NET technologies and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * Selenium (or equivalent) for frontend automation.
 * Linux/Unix development. Writing bash scripts should never be a big challenge.
