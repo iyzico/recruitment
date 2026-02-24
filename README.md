@@ -56,11 +56,11 @@ We have many platforms build in various technologies. Our main focus is on Java 
 * Service Oriented Architecture and working with RESTful APIs, SOAP, XML or JSON.
 * Code cannot be deployed unless it is reviewed.
 * Refactoring is a must to keep the platform alive.
-* Microservices, CQRS. That has impact on every single design decision.
+* Microservices, CQRS and many other application design patterns. That has impact on every single design decision.
 * Good Git knowledge is important.
 * Continuous Delivery is the heart of application lifecycle.
 * Relational databases and SQL.
-* Java ecosystem (Spring, Spring Boot, Java 17/21, Kotlin and Groovy) and related design patterns.
+* Java ecosystem (Spring, Spring Boot, Java 17/21, Kotlin and Groovy), .NET technologies and related design patterns.
 * Unit, Integration and Functional Testing. If tests are missing, development is not done.
 * Selenium (or equivalent) for frontend automation.
 * Linux/Unix development. Writing bash scripts should never be a big challenge.
