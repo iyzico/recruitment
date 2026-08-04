@@ -1,6 +1,6 @@
 # iyzico Recruitment Process
 
-As iyzicoders, we are a team of passionate engineers who has dreams to come true. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
+As iyzicoders, we are a team of passionate engineers who have dreams to bring to life. iyzico Engineering team, which achieved firsts in Turkey, is looking for new teammates who have similar passions and are thrilled to develop software to achieve new and even greater achievements. 
 
 iyzico was founded in 2013 to provide online payment services and artificial intelligence-based payment technologies to businesses of various sizes in the world of e-commerce. By making the complex payment processes simple through its easy and secure platform, iyzico had achieved significant successes through supporting thousands of businesses in digitalization and was acquired by the global payment systems giant PayU in 2019. With such a robust structure, iyzico is operating on the principle of democratizing financial services and making them accessible for everyone alongside the services it provides to businesses.
 
@@ -14,23 +14,23 @@ Quality software can be realized by excellent engineers. If you are passionate, 
 
 ## Zen of iyzicoders
 
-We call ourself "**iyzicoders**". We believe in the power of keeping focus on a common value set. We defined what we believe in a document. You can click on the images below to see the bigger versions.
+We call ourselves "**iyzicoders**". We believe in the power of keeping focus on a common value set. We defined what we believe in a document. You can click on the images below to see the bigger versions.
 
 [![iyzicoders Zen.001](/img/iyzicoders%20Zen.001-tb.jpeg)](/img/iyzicoders%20Zen.001.jpeg) [![iyzicoders Zen.002](/img/iyzicoders%20Zen.002-tb.jpeg)](/img/iyzicoders%20Zen.002.jpeg)
 
 ## iyzico Engineering Recruitment Process
 
-Recruitment has always been very important for iyzico. We search for talents who fits our culture perfectly. 
+Recruitment has always been very important for iyzico. We search for talents who fit our culture perfectly. 
 
 ![Recruitment Process](/img/iyzico_recruitment_process.png)
 
 iyzico evaluates candidates in two main areas: Technical and Cultural. 
 
-**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems. And it is a good time to talk about Coding Challenge Solution.
+**Technical interviews** check for candidates’ knowledge and experience about technologies and their approaches for solving problems.
 
-**Cultural interviews** check for candidates’ soft skills,  values, communication skills and how the candidate fits for every single point of iyzicoder’s zen. iyzico searches for perfect cultural fits.
+**Cultural interviews** check for candidates’ soft skills,  values, communication skills and how the candidate aligns for every single point of iyzicoder’s zen. iyzico searches for perfect cultural fits.
 
-The things iyzico Engineering is obsessed about: 
+What we are passionate about at iyzico Engineering:
 
 * Ethics
 * Company values
@@ -45,7 +45,7 @@ The things iyzico Engineering is obsessed about:
 * Egoless programming
 * Sharing knowledge
 * Practicing
-* Involving in communities
+* Community involvement
 
 ## What is the technology stack at iyzico?
 
@@ -71,41 +71,37 @@ We have open source clients written in PHP, Java, Ruby, Node and Python. Our fra
 
 You can check the details of our technology stack from our [StackShare page](https://stackshare.io/iyzico/development).
 
-## How can you apply iyzico Engineering?
+## How can you apply to iyzico Engineering?
 
 For all other open positions at iyzico, you can visit our [career page](https://jobs.lever.co/iyzico).
 
-Please do not hesitate to contact with us for any questions by creating an issue to this repository.
+Please do not hesitate to contact us for any questions by creating an issue to this repository.
 
 ## Frequently Asked Questions
 
 **Q1. Do I need to come to iyzico office for the interviews?**
 
-No, all recruitment process is online.
+Our interviews are mostly conducted online, though we may occasionally invite candidates to the office as well.
 
 **Q2. How many interviews will we conduct?**
 
-Most probably, we will meet twice. First gathering is for the technical interview, second gathering is for code review and third interview for cultural interview + additional interviews if required. In most cases, we merge 2nd and 3rd interviews to the same day to make fast decisions and finalize the process in the second gathering.
+We usually meet twice during our hiring process. The first meeting is a culture interview, and the second is a technical interview. Depending on the outcome, additional interviews may be arranged if required.
 
-**Q3. How much should I need to wait for being informed about the decision?**
+**Q3. How long should I expect to wait to hear back regarding a decision?**
 
 Statistically we usually inform you in 2–3 days. However in special situations, we may need to wait 2–3 weeks for finalizing our decisions.
 
 **Q4. What is asked in the technical interview?**
 
-We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
+We ask questions to identify your level of knowledge and experience in technologies, architecture, design patterns, and the object-oriented paradigm. Additionally, small hypothetical scenarios (such as problem-solving or system design) may be part of the discussion to see how you tackle issues we face in our teams.
 
-**Q5. What is code review session?**
+**Q5. Will I code at the interview?**
 
-We ask questions to identify the level of your knowledge and experience about technologies, architecture and design patterns, object oriented paradigm, and about the problems we face in our teams.
+No live coding is required for this stage. We'll focus on discussing your code, though you're welcome to share your screen and draw a diagram to explain the flow.
 
-**Q6. Will I code at the interview?**
+**Q6. How does the adaptation process work after starting the job?**
 
-No, You already code in Coding Challenge. We will talk about your code.
-
-**Q7. How does the adaptation process work after starting the job?**
-
-a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, balance is loaded to the wallet account for their needs, various gifts are added to the package :) )
+a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, a balance is loaded into their digital wallet account for their needs, various gifts are added to the package :) )
 
 b) iyziMate is assigned to help you with anything you need and provide support for 2 months, There is a detailed orientation program designed for you to fully grasp the iyzico culture,
 
@@ -113,7 +109,7 @@ c) Online Training Platform (Free access to Udemy, Get abstract, etc.), Free O'R
 
 d) Iyzinator join various meetings and trainings during a 2-month period
 
-**Q8. Can I use the office after I start work?**
+**Q7. Can I use the office after I start work?**
 
 Yes you can. Our headquater is in Altunizade. You have the freedom to work from home or from the office.
 
