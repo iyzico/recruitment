@@ -22,7 +22,7 @@ We call ourself "**iyzicoders**". We believe in the power of keeping focus on a 
 
 Recruitment has always been very important for iyzico. We search for talents who fits our culture perfectly. 
 
-![Recruitment Process](/img/iyzico_recruitment_process.jpg)
+![Recruitment Process](/img/iyzico_recruitment_process.png)
 
 iyzico evaluates candidates in two main areas: Technical and Cultural. 
 
