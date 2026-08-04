@@ -20,7 +20,7 @@ We call ourselves "**iyzicoders**". We believe in the power of keeping focus on 
 
 ## iyzico Engineering Recruitment Process
 
-Recruitment has always been very important for iyzico. We search for talents who fit our culture perfectly. 
+Recruitment has always been very important for iyzico. We search for talent who fits our culture perfectly.
 
 ![Recruitment Process](/img/iyzico_recruitment_process.png)
 
@@ -89,7 +89,7 @@ We usually meet twice during our hiring process. The first meeting is a culture 
 
 **Q3. How long should I expect to wait to hear back regarding a decision?**
 
-Statistically we usually inform you in 2–3 days. However in special situations, we may need to wait 2–3 weeks for finalizing our decisions.
+Statistically we usually inform you in a week. However in special situations, we may need to wait 2–3 weeks for finalizing our decisions.
 
 **Q4. What is asked in the technical interview?**
 
@@ -101,7 +101,7 @@ No live coding is required for this stage. We'll focus on discussing your code, 
 
 **Q6. How does the adaptation process work after starting the job?**
 
-a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, office chair, a balance is loaded into their digital wallet account for their needs, various gifts are added to the package :) )
+a) Welcome kit is delivered to the new iyzinator. (Monitor, Macbook, a balance is loaded into their digital wallet account for their needs, various gifts are added to the package :) )
 
 b) iyziMate is assigned to help you with anything you need and provide support for 2 months, There is a detailed orientation program designed for you to fully grasp the iyzico culture,
 
